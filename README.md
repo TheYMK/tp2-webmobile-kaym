@@ -1,6 +1,12 @@
 # OVERVIEW
 
 Le but de ce projet est de créer une application web/mobile qui permet de visualiser et de gérer des données générer par des objects connectés.<br/>
+Les fonctionnalites de l'application sont les suivantes:
+<br/>
+
+- Afficher les données en temps réel sur une carte
+- Ajouter/Modifier/Supprimer des nouveaux objects connectés
+- Authentifier les utilisateurs
 
 ## TECHNOS FRONTEND:
 
