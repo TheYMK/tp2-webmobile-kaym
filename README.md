@@ -50,4 +50,10 @@ Steps to run the `client` project:
 
 DEMO <br/>
 
-<video src="https://user-images.githubusercontent.com/22744551/198595598-2ffa8d3b-4c78-4a79-8477-b6ef327d5613.mov"></video>
+<video src="https://user-images.githubusercontent.com/22744551/198595598-2ffa8d3b-4c78-4a79-8477-b6ef327d5613.mov"></video> <br/>
+
+Responsive <br/>
+
+<video src="https://user-images.githubusercontent.com/22744551/212308496-20fcf310-16d4-4daa-96a9-961ece312df4.mov"></video>
+
+
