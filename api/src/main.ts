@@ -11,11 +11,7 @@ async function bootstrap() {
   app.use(json({ limit: '100mb' }));
   app.use(helmet());
   app.enableCors({
-    origin: [
-      'http://localhost:5173',
-      'http://127.0.0.1:5173',
-      'https://dashboard-frontend-two.vercel.app',
-    ],
+    origin: '*',
     credentials: true,
   });
 

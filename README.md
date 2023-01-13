@@ -5,7 +5,7 @@ Les fonctionnalites de l'application sont les suivantes:
 <br/>
 
 - Afficher les données en temps réel sur une carte
-- Ajouter/Modifier/Supprimer des nouveaux objects connectés
+- Ajouter/Modifier/Supprimer des objects connectés
 - Authentifier les utilisateurs
 
 ## TECHNOS FRONTEND:

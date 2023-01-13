@@ -1,0 +1,51 @@
+{
+	"name": "Dashboard",
+	"short_name": "Dashboard",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#fdfdfd",
+	"theme_color": "#db4938",
+	"orientation": "portrait-primary",
+	"icons": [
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "128x128"
+		},
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "384x384"
+		},
+		{
+			"src": "https://images.unsplash.com/photo-1495220390995-1487cfe6810c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	]
+}

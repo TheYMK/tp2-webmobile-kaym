@@ -1,26 +1,26 @@
 <script>
   import { Bar } from 'svelte-chartjs';
-  import {
-    Chart,
-    Title,
-    Tooltip,
-    Legend,
-    BarElement,
-    CategoryScale,
-    LinearScale,
-  } from 'chart.js';
+  // import {
+  //   Chart,
+  //   Title,
+  //   Tooltip,
+  //   Legend,
+  //   // BarElement,
+  //   CategoryScale,
+  //   LinearScale,
+  // } from 'chart.js';
   
   export let totalOnlineDevices = 0;
   export let totalOfflineDevices = 0;
 
-  Chart.register(
-    Title,
-    Tooltip,
-    Legend,
-    BarElement,
-    CategoryScale,
-    LinearScale
-  );
+  // Chart.register(
+  //   Title,
+  //   Tooltip,
+  //   Legend,
+  //   BarElement,
+  //   CategoryScale,
+  //   LinearScale
+  // );
 
   const data = {
   labels: ['Online', 'Offline'],
@@ -43,5 +43,5 @@
 
 </script>
 <div class="w-full h-full shadow-md">
-  <Bar {data} options={{ responsive: true }} />
+  <!-- <Bar {data} options={{ responsive: true }} /> -->
 </div>
